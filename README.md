@@ -5,8 +5,8 @@ This python script will be chnage CUCM admin GUI and CLI password
 
 Sample input.csv file
 
-GUI,10.10.10.10,cucmadmin,Test@V0!P,Test@voice
-CLI,10.10.10.10,cucmadmin,Test@V0!P,Test@voice
+      GUI,10.10.10.10,cucmadmin,Test@V0!P,Test@voice
+      CLI,10.10.10.10,cucmadmin,Test@V0!P,Test@voice
 
       1) GUI or CLI
       2) IP of CUCM or CUC node
